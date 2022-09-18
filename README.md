@@ -51,3 +51,8 @@ As seguintes características devem ser utilizadas:
 
 <img src='https://github.com/Hugo8880/Projetos-DIO/blob/master/E-commerce/Projeto%20E-commerce.png'>
 
+## Segundo Projeto - Oficina
+  
+  Esquema conceitual focado no sistema de OS de uma oficina, desde o atendimento à última ou única OS. Funcionamento em ciclo até a conclusão do serviço.
+  
+<img src='https://github.com/Hugo8880/Projetos-DIO/blob/master/Oficina/oficina.png'>

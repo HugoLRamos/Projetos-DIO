@@ -4,10 +4,10 @@
 <h1 align="center">
 <h1 align="center">
   <br>
-  <img src="https://hermes.digitalinnovation.one/tracks/7df7e300-b035-4b09-a7ad-34d1cb18f9a6.png" alt="logo" height="200">
+  <img src="https://github.com/HugoLRamos/Projetos-DIO/blob/master/imgdio.png" alt="logo" height="200">
 </h1>
 
-<h3 align="center"> Database Experience - Bootcamp DIO</h3>
+<h3 align="center">Geração Tech Unimed-BH - Ciência de Dados - Bootcamp DIO</h3>
 
 ## Sobre 
 
